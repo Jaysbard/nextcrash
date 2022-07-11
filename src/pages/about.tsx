@@ -7,7 +7,7 @@ export default function About() {
         This is my About me page.
       </h2>
       <p className="mt-2 bg-black p-4 text-white">
-        Only God grants success. Please remember.
+        Don't forget where you came from.
       </p>
       <Link href="/">
         <a className="mt-2 bg-black text-white p-4 underline rounded-xl">

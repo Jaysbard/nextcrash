@@ -19,7 +19,7 @@ const Home: NextPage = () => {
           </a>
         </Link>
         <p className="p-2 text-lg text-center ">
-          Gideon won because he trusted God. No other method to be saved.
+          Example Text with Scaffolded directories
         </p>
       </div>
     </>
